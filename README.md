@@ -6,4 +6,5 @@ There is also the public Celestia Community calendar that will have these calls.
 
 |  №  |      Date       | Agenda | Notes | Recording |
 |:---:|:---------------:|:------:|:-----:|:---------:|
+| 2  | June 8, 2022 | [Agenda](https://github.com/celestiaorg/community-calls/issues/2) |  |  |
 | 1  | May 4, 2022 | [Agenda](https://github.com/celestiaorg/community-calls/issues/1) | [Notes](https://github.com/celestiaorg/community-calls/files/8638519/Community.Call.Recap.-.Edited.pdf) |   [Video](https://www.youtube.com/watch?v=4VRVuRPrxyU)   |
